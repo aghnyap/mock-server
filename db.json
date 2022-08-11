@@ -2,7 +2,7 @@
   "shop-page": {
     "success": true,
     "data": {
-      "name": "promos-page",
+      "name": "shop-page",
       "sections": [
         {
           "sectionType": "BODY_SECTION",
