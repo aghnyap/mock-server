@@ -73,11 +73,7 @@
                         }
                       ]
                     }
-                  ],
-                  "themableImage": {
-                    "lightImage": "https://i.gojekapi.com/darkroom/nearby-cms-id/v2/images/f2df49ac-cdaa-437b-b004-89520d27735e_logo_gojek_light.png",
-                    "darkImage": "https://i.gojekapi.com/darkroom/nearby-cms-id/v2/images/b47cf177-ec2b-43a2-8400-7bb4b0b6419c_logo_gojek_dark.png"
-                  }
+                  ]
                 }
               }
             }
