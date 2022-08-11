@@ -38,7 +38,34 @@
                       },
                       "price": "Rp10.000",
                       "strikethroughPrice": "Rp15.000",
+                      "ctaButton": {
+                        "title": {
+                          "id": "See more",
+                          "vi": "See more",
+                          "en": "See more"
+                        },
+                        "deeplink": "gopay://promo/details?promo_id=DERMAWAN:2109814e-4652-422d-a34f-5c912cc22597:ca471714-9a3b-474c-a532-5c4737bab882&entry_source=PromoDiscoveryHomeGoJek_Organism",
+                        "imageUrl": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png"
+                      },
+                      "textButton": {
+                        "label": {
+                          "id": "5+ more",
+                          "vi": "5+ more",
+                          "en": "5+ more"
+                        },
+                        "deeplink": "gopay://promo/details?promo_id=DERMAWAN:2109814e-4652-422d-a34f-5c912cc22597:ca471714-9a3b-474c-a532-5c4737bab882&entry_source=PromoDiscoveryHomeGoJek_Organism"
+                      },
                       "details": [
+                        {
+                          "id": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
+                          "vi": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
+                          "en": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING"
+                        },
+                        {
+                          "id": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
+                          "vi": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
+                          "en": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING"
+                        },
                         {
                           "id": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
                           "vi": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
@@ -47,8 +74,8 @@
                       ]
                     },
                     {
-                      "type": "TILE",
-                      "imageUrl": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
+                      "type": "BUNDLE",
+                      "backgroundUrl": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
                       "title": {
                         "id": "Testing do not change ID",
                         "vi": "Testing do not change EN",
