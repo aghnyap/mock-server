@@ -14,29 +14,37 @@
                 "categories": [
                   "ALL"
                 ],
-                "tileCarousel": {
-                  "type": "TILE_CAROUSEL",
+                "bundles": {
+                  "type": "BUNDLES",
+                  "container": "FILLED",
                   "title": {
                     "id": "Menang banyak bareng Gojek",
                     "vi": "Been spending a lot?",
                     "en": "Been spending a lot?"
                   },
-                  "description": {
+                  "subtitle": {
                     "id": "Bisa hemat transport, makan, sampe kirim barang! ",
                     "vi": "Save on transport, food, and logistics with Gojek.",
                     "en": "Save on transport, food, and logistics with Gojek."
                   },
-                  "deeplink": "gopay://promo/list?title=Been+spending+a+lot%3F&promo_categories=GO_CAR,GO_RIDE,GOFOOD,GOMART&sort_by=end_date&promo_visibility=true&entry_source=PromoDiscoveryHomeGoJek_Organism",
-                  "items": [
+                  "bundles": [
                     {
-                      "type": "TILE",
-                      "imageUrl": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
+                      "type": "BUNDLE",
+                      "backgroundUrl": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
                       "title": {
                         "id": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
                         "vi": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
                         "en": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING"
                       },
-                      "deeplink": "gopay://promo/details?promo_id=DERMAWAN:e79232f7-8016-4b1a-af4f-6098c53239b8:8b2e1f45-a010-46c1-9f07-e1dfd729797a&entry_source=PromoDiscoveryHomeGoJek_Organism"
+                      "price": "Rp10.000",
+                      "strikethroughPrice": "Rp15.000",
+                      "details": [
+                        {
+                          "id": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
+                          "vi": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING",
+                          "en": "TESTINGSANITYCLONE TESTINGSANITYCLONE TESTING"
+                        }
+                      ]
                     },
                     {
                       "type": "TILE",
