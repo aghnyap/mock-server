@@ -2,7 +2,7 @@
   "bundles": {
     "success": true,
     "data": {
-      "title": "string",
+      "title": "Gaming, Food, GoTagihan promo pack",
       "header": {
         "illustration": "string",
         "icons": [
@@ -10,11 +10,11 @@
         ]
       },
       "savings": {
-        "text": "string",
+        "text": "You’ll save 23k with this promo pack",
         "icon": "string"
       },
       "availability": {
-        "text": "string",
+        "text": "Available until 14 July 2022",
         "icon": "string"
       },
       "validity": {
