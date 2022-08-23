@@ -1,5 +1,5 @@
 {
-  "mock_voucher_details": {
+  "v1_bundles": {
     "success": true,
     "data": {
       "title": "string",
