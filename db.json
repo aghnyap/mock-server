@@ -1,5 +1,5 @@
 {
-  "v1_bundles": {
+  "bundles": {
     "success": true,
     "data": {
       "title": "string",
