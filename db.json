@@ -78,6 +78,55 @@
           }
         }
       }
+      {
+  "data": {
+    "promo_url": "https://i-integration.gojekapi.com/darkroom/nearby\ncms-id/v2/images/uploads/image/file/ 287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
+    "promo_title": "TOLLROAD85 COINS EN",
+    "category": "Daily Driving",
+    "status": "AVAILABLE",
+    "label": "Valid until 24 August 2022",
+    "validity": {
+      "highlight": "5 days left"
+    },
+    "availability": {
+      "label": "Limited availability",
+      "description": "Lots of people are eyeing this promo. Use it fast before they beat you to it!",
+      "highlight": ""
+    },
+    "basic_details": {
+      "title": "Promo Details",
+      "promo_details": [
+        "Get 85% GoPay Coins cashback",
+        "Min. purchase Rp10.000",
+        "Max. cashback 5.555 GoPay Coins",
+        "Valid for 15x per day"
+      ]
+    },
+    "additional_details": {
+      "title": "Promo details",
+      "content": [
+        {
+          "content": "<p>GOOGLEPROMOML&nbsp;COINS EN</p>",
+          "sublist": [
+            {
+              "content": "Promo sub title automation"
+            }
+          ]
+        }
+      ]
+    },
+    "usage instructions": {
+      "title": "How to use",
+      "content": [
+        {
+          "content": "<p>GOOGLEPROMOML&nbsp;COINS EN</p>"
+        }
+      ]
+    },
+    "redirect_deeplink": "gopay://"
+  },
+  "success": true
+}
     }
   }
 }
