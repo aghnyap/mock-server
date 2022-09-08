@@ -23,18 +23,29 @@
         "state": "VALID"
       },
       "benefits_section": {
-        "title": "string",
+        "title": "What’s inside the pack?",
         "benefits_nudge": {
           "text": "string",
           "icon": "string"
         },
         "benefits_details": [
           {
-            "title": "string",
+            "title": "90% GoRide/GoCar voucher (max. 10k)",
             "icon": "string",
             "consumption": "string",
             "state": "ACTIVE",
-            "voucher_count": "string",
+            "voucher_count": "1x",
+            "cta_button": {
+              "text": "string",
+              "deeplink": "string"
+            }
+          },
+          {
+            "title": "90% BlueBird voucher (max. 10k)",
+            "icon": "string",
+            "consumption": "string",
+            "state": "ACTIVE",
+            "voucher_count": "1x",
             "cta_button": {
               "text": "string",
               "deeplink": "string"
