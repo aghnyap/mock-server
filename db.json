@@ -31,7 +31,7 @@
         "benefits_details": [
           {
             "title": "90% GoRide/GoCar voucher (max. 10k)",
-            "icon": "string",
+            "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
             "consumption": "string",
             "state": "ACTIVE",
             "voucher_count": "1x",
@@ -42,10 +42,21 @@
           },
           {
             "title": "90% BlueBird voucher (max. 10k)",
-            "icon": "string",
+            "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
             "consumption": "string",
             "state": "ACTIVE",
             "voucher_count": "1x",
+            "cta_button": {
+              "text": "string",
+              "deeplink": "string"
+            }
+          },
+          {
+            "title": "90% offline food voucher (max. 10k)",
+            "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
+            "consumption": "string",
+            "state": "ACTIVE",
+            "voucher_count": "2x",
             "cta_button": {
               "text": "string",
               "deeplink": "string"
@@ -54,26 +65,33 @@
         ]
       },
       "details_section": {
-        "title": "string",
+        "title": "Must know",
         "details": [
-          "string"
+          "Available while stocks last",
+          "Applicable for 3 orders per day",
+          "Automatically applied to orders",
         ],
-        "cta_text": "string",
+        "cta_text": "More details",
         "details_dialog": {
-          "title": "string",
+          "title": "Must know",
           "details": [
-            "string"
-          ]
+            "Available while stocks last",
+            "Applicable for 3 orders per day",
+            "Automatically applied to orders",
+        ]
         }
       },
       "instructions_section": {
-        "title": "string",
+        "title": "How to use this voucher",
         "icon": "string",
         "redirect_icon": "string",
         "instructions_dialog": {
-          "title": "string",
+          "title": "How to use this voucher",
           "details": [
-            "string"
+            "This is dummy data",
+            "Available while stocks last",
+            "Applicable for 3 orders per day",
+            "Automatically applied to orders",
           ]
         }
       },
