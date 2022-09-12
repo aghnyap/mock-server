@@ -73,7 +73,7 @@
         ],
         "cta_text": "More details",
         "details_dialog": {
-          "title": "Must know",
+          "title": "Terms and conditions",
           "details": [
             "Available while stocks last",
             "Applicable for 3 orders per day",
@@ -86,7 +86,7 @@
         "icon": "string",
         "redirect_icon": "string",
         "instructions_dialog": {
-          "title": "How to use this voucher",
+          "title": "How to use",
           "details": [
             "This is dummy data",
             "Available while stocks last",
