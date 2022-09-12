@@ -148,7 +148,7 @@
         "state": "PURCHASE",
         "purchasable_amount": 0,
         "repurchase_widget": {
-          "icon": "string",
+          "icon": "stri",
           "text": "string",
           "cta_button": {
             "text": "string",
