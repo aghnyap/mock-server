@@ -2,33 +2,25 @@
   "bundles": {
     "success": true,
     "data": {
-      "title": "Gaming, Food, GoTagihan promo pack",
-      "header": {
-        "illustration": "string",
-        "icons": [
-          "string"
-        ]
-      },
-      "savings": {
-        "text": "You’ll save 23k with this promo pack",
-        "icon": "string"
-      },
-      "availability": {
-        "text": "Available until 14 July 2022",
-        "icon": "string"
-      },
-      "validity": {
-        "text": "string",
-        "icon": "string",
-        "state": "VALID"
+      "header_section": {
+        "title": "Gaming, Food, GoTagihan promo pack",
+        "banner_image_url": "string",
+        "savings_text": "You’ll save 23k with this promo pack",
+        "purchase_availability": {
+          "text": "Available until 14 July 2022"
+        },
+        "validity": {
+          "text": "string",
+          "state": "VALID"
+        }
       },
       "benefits_section": {
         "title": "What’s inside the pack?",
-        "benefits_nudge": {
+        "info_bar": {
           "text": "string",
           "icon": "string"
         },
-        "benefits_details": [
+        "details": [
           {
             "title": "90% GoRide/GoCar voucher (max. 10k)",
             "icon": "https://i-integration.gojekapi.com/darkroom/nearby-cms-id/v2/images/uploads/image/file/287/7dae4176-1bf2-4f08-89d6-0a6e076a7f49.png",
@@ -72,72 +64,70 @@
           "Automatically applied to orders"
         ],
         "cta_text": "More details",
-        "details_dialog": {
+        "dialog": {
           "title": "Terms and conditions",
           "details": [
             "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders"
-        ]
+          ]
         }
       },
       "instructions_section": {
         "title": "How to use this voucher",
-        "icon": "string",
-        "redirect_icon": "string",
-        "instructions_dialog": {
+        "dialog": {
           "title": "How to use",
           "details": [
             "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders",
-             "This is dummy data",
+            "This is dummy data",
             "Available while stocks last",
             "Applicable for 3 orders per day",
             "Automatically applied to orders"
@@ -146,10 +136,12 @@
       },
       "purchase": {
         "state": "PURCHASE",
-        "purchasable_amount": 0,
+        "purchasable_amount": {
+          "value": 100,
+          "currency": "IDR"
+        },
         "repurchase_widget": {
-          "icon": "stri",
-          "text": "string",
+          "info_text": "string",
           "cta_button": {
             "text": "string",
             "deeplink": "string"
