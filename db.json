@@ -134,7 +134,7 @@
           ]
         }
       },
-      "purchase": {
+      "purchase_section": {
         "state": "PURCHASE",
         "purchasable_amount": {
           "value": 100,
